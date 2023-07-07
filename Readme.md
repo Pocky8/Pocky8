@@ -1,4 +1,4 @@
-<img src="https://cdn.discordapp.com/attachments/970974282681307187/1110482381619597353/github_bg.png" alt=":D" style="width: 100%;" />
+<img src="https://cdna.artstation.com/p/assets/images/images/041/571/736/large/leys-1.jpg" alt=":D" style="width: 100%;" />
 
 <a href="https://discord-cards.kurizu.repl.co/api/compact/806015103198822401?banner=https://i.etsystatic.com/40957748/r/il/e4efaa/4810125152/il_fullxfull.4810125152_23ir.jpg">
   <img src="https://discord-cards.kurizu.repl.co/api/compact/806015103198822401?banner=https://i.etsystatic.com/40957748/r/il/e4efaa/4810125152/il_fullxfull.4810125152_23ir.jpg" alt=":D" align="right" style="margin-right: 40px; margin-top: 80px" />
